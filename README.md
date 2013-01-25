@@ -13,6 +13,7 @@ http://rhall.s3.amazonaws.com/runway_leapmotion_demo/runway_bridge_demo.mp4
 Revision History:
 
 01/25/2013:
+
 	1. removed swc dependency by bringing in the various .as files that it contained.
 
 
